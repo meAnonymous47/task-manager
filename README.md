@@ -6,7 +6,7 @@ A lightweight Task Manager web application built using **HTML**, **CSS**, and **
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the app](https://meAnonymous47.github.io/TaskManager/)
+👉 [Click here to try the app](https://meAnonymous47.github.io/task-manager/)
 
 ---
 
