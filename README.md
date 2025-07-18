@@ -34,3 +34,7 @@ A lightweight Task Manager web application built using **HTML**, **CSS**, and **
 1. Clone the repository:
    ```bash
    git clone https://github.com/meAnonymous47/TaskManager.git
+
+   ✍️ Author
+Mukul Koli
+GitHub: @meAnonymous47
